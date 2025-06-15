@@ -1,2 +1,3 @@
 # PorfolioWebsite
-Portfolio personal website, currently containg a plain HTML draft.
+
+Portfolio personal website, using CSS3, HTML5 and Bootstrap 5.
