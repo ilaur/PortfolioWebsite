@@ -1,0 +1,62 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.navbar {
+    background-color: #608bc1;
+    border: none;
+    border-width: 0;
+}
+
+.card-container {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.card-container .col-lg-12 {
+    display: inline-block;
+}
+
+.card {
+    background-color: #608bc1;
+    border: none;
+    margin: 15px;
+    width: 350px;
+    height: 400px;
+    float: none;
+    display: inline-block;
+}
+
+.card-body {
+    justify-items: center;
+    white-space: normal;
+}
+
+.form-check-input:checked {
+    background-color: #133e87;
+}
+
+.form-check-input {
+    background-color: #cbdceb;
+}
+
+.profile-picture {
+    border-radius: 50%;
+}
+
+.primary-button {
+    background-color: #133e87;
+}
+
+.projects-button {
+    background-color: #608bc1;
+}
+
+#scrollspySkillMatrix {
+    justify-items: center;
+}
+
+.progress {
+    background-color: #cbdceb;
+}
