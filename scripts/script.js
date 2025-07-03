@@ -28,11 +28,11 @@ setInterval(() => {
     switchDir = !switchDir;
 });
 
-$(".card-container").on("mouseenter", () => {
+$(".card-container").on("mouseenter vmouseover", () => {
     containerScrolling = false;
     $(".card-container").stop(true);
 });
 
-$(".card-container").on("mouseleave", () => {
+$(".card-container").on("mouseleave vmouseout", () => {
     containerScrolling = true;
 });
