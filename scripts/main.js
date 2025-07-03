@@ -1,1 +1,0 @@
-(()=>{const t=document.getElementById("themeSwitch");t.addEventListener("click",(()=>{"dark"==document.documentElement.getAttribute("data-bs-theme")?document.documentElement.setAttribute("data-bs-theme","light"):document.documentElement.setAttribute("data-bs-theme","dark")})),new bootstrap.Tooltip(t,{title:"Change Theme",placement:"bottom"})})();

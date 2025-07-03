@@ -22,8 +22,8 @@ body {
     background-color: #608bc1;
     border: none;
     margin: 15px;
-    width: 350px;
-    height: 400px;
+    width: 16rem;
+    height: 27rem;
     float: none;
     display: inline-block;
 }
@@ -51,12 +51,4 @@ body {
 
 .projects-button {
     background-color: #608bc1;
-}
-
-#scrollspySkillMatrix {
-    justify-items: center;
-}
-
-.progress {
-    background-color: #cbdceb;
 }
